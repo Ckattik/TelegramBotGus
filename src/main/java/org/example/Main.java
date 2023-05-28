@@ -18,7 +18,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
-// отправка на удаленный репозиторий TelegramBot
+// отправка на удаленный репозиторий TelegramBotGus
+// second commit 
 
 
 public class Main extends TelegramLongPollingBot {
